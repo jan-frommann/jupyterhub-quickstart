@@ -222,6 +222,8 @@ c.KubeSpawner.profile_list = [
 
 This will override any image defined by the ``NOTEBOOK_IMAGE`` template parameter.
 
+
+
 For further information on using the profile list configuration see the ``KubeSpawner`` documentation.
 
 * https://jupyterhub-kubespawner.readthedocs.io/en/latest/spawner.html
